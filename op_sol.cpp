@@ -7,6 +7,7 @@ using namespace std;
 void solve() {
 	int n;
 	cin >> n;
+	//use string to include leading zeroes
 	string rd, bl;
 	cin >> rd >> bl;
 	int nr=0, nb=0;
